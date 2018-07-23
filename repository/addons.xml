@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 <addons>
- <addon id="plugin.video.allmoviesin"                                                                                                                                    
+<addon id="plugin.video.allmoviesin"                                                                                                                                    
 	   name="ויקטורי"                                                 
 	   version="3.1.5"                                                                                                                                        
 	   provider-name="ομάδα παλίνδρομη">
@@ -22,7 +22,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-	<addon id="plugin.video.ember"                                                                                                                                    
+<addon id="plugin.video.ember"                                                                                                                                    
 	   name="Ember"                                                 
 	   version="1.2.2"                                                                                                                                        
 	   provider-name="EXDX">
