@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.TheFirstAvenger"                                                                                                                                    
+	   name="הנוקם הראשון "                      
+	   version="1.3.3"                                                                                                                                        
+	   provider-name="הנוקם הראשון">
+	   <requires>
+    <import addon="script.module.resolveurl" version="5.0.00"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests"/>
+
+
+	
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">סרטים בתרגום מובנה</summary>
+    <description lang="en">סרטים בתרגום מובנה</description>
+    <platform>all</platform>
+
+  </extension>
+</addon>
