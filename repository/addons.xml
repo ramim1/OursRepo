@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
-<addons>
-<addon id="plugin.video.allmoviesin"                                                                                                                                    
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><addon id="plugin.video.allmoviesin"                                                                                                                                    
 	   name="ויקטורי"                                                 
 	   version="3.1.5"                                                                                                                                        
 	   provider-name="ομάδα παλίνδρομη">
@@ -21,8 +19,7 @@
     <description lang="he">Victory :-)</description>
     <platform>all</platform>
   </extension>
-</addon>
-<addon id="plugin.video.ember"                                                                                                                                    
+</addon><addon id="plugin.video.ember"                                                                                                                                    
 	   name="Ember"                                                 
 	   version="1.2.2"                                                                                                                                        
 	   provider-name="EXDX">
@@ -41,8 +38,7 @@
     <description lang="he">Direct Gem</description>
     <platform>all</platform>
   </extension>
-</addon>
-	<addon id="plugin.video.PastebinPlay"                                                                                                                                    
+</addon><addon id="plugin.video.PastebinPlay"                                                                                                                                    
 	   name="PlayItAll"                      
 	   version="1.9.7"                                                                                                                                        
 	   provider-name="Babylon5">
@@ -65,8 +61,7 @@
     <platform>all</platform>
 
   </extension>
-</addon>
-	<addon id="plugin.video.TheFirstAvenger"                                                                                                                                    
+</addon><addon id="plugin.video.TheFirstAvenger"                                                                                                                                    
 	   name="הנוקם הראשון "                      
 	   version="1.3.3"                                                                                                                                        
 	   provider-name="הנוקם הראשון">
@@ -89,5 +84,4 @@
     <platform>all</platform>
 
   </extension>
-</addon>
-</addons> 
+</addon></addons> 
