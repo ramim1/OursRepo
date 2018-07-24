@@ -42,4 +42,38 @@
     <platform>all</platform>
   </extension>
 </addon>
+	-<addon provider-name="Babylon5" version="1.9.6" name="PlayItAll" id="plugin.video.PastebinPlay">
+
+
+-<requires>
+
+<import version="5.0.00" addon="script.module.resolveurl"/>
+
+<import version="2.1.0" addon="xbmc.python"/>
+
+<import addon="script.module.requests"/>
+
+<import addon="script.module.nanscrapers"/>
+
+</requires>
+
+
+-<extension library="default.py" point="xbmc.python.pluginsource">
+
+<provides>video</provides>
+
+</extension>
+
+
+-<extension point="xbmc.addon.metadata">
+
+<summary lang="he"/>
+
+<description lang="he"> One Addon to rule them all, One Addon to find them; One Addon to bring them all and in the darkness bind them.</description>
+
+<platform>all</platform>
+
+</extension>
+
+</addon>
 </addons> 
